@@ -11,7 +11,7 @@ public class EbookApplication {
 
         System.out.println("Aichurok");
 
-        System.out.println("Kyrgyzstan");
+        System.out.println("USA");
     }
 
 }
