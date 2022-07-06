@@ -9,6 +9,7 @@ public class Azat {
 
         sayHello("Azat", "Ibraev");
 
+        Altynbek altynbek = new Altynbek("Altynbek", "Akmatov", 24);
     }
 
     public static void sayHello(String a, String b) {
