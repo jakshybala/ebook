@@ -9,6 +9,10 @@ public class booktest {
     public static void main(String[] args) {
 
         System.out.println("Nurzhan");
+        System.out.println("Nurzhan");
+        System.out.println("Nurzhan");
+        System.out.println("Nurzhan");
+        System.out.println("Nurzhan");
 
     }
 }
