@@ -10,6 +10,8 @@ public class EbookApplication {
         SpringApplication.run(EbookApplication.class, args);
 
         System.out.println("Aichurok");
+
+        System.out.println("Kyrgyzstan");
     }
 
 }
