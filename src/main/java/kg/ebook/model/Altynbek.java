@@ -16,4 +16,6 @@ public class Altynbek {
     private int age;
 
     private String altyshka;
+    private String aychushka;
+
 }
