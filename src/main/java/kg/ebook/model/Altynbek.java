@@ -17,5 +17,6 @@ public class Altynbek {
 
     private String altyshka;
     private String aychushka;
+    private String max;
 
 }
