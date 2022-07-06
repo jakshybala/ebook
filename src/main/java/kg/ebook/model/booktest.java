@@ -10,6 +10,6 @@ public class booktest {
 
         System.out.println("new changed Nurzhan");
 
-        System.out.println("asldfjalskfjs");
+        System.out.println("change Nurzhan");
     }
 }
