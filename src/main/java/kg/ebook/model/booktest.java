@@ -10,5 +10,9 @@ public class booktest {
 
         System.out.println("Nurzhan");
         System.out.println("Nurzhan");
+        System.out.println("Nurzhan");
+        System.out.println("Nurzhan");
+        System.out.println("Nurzhan");
+
     }
 }
